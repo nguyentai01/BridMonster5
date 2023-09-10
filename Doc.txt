@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 new game
-=======
+
 new game updated by NguyenTai
->>>>>>> f8c095c5152f6a1bf519a1f44c1db1138b42bcc6
+
